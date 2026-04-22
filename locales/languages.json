@@ -26,5 +26,9 @@
   "de": {
     "label": "Deutsch",
     "llmInstruction": "Bitte antworten Sie auf Deutsch."
+  },
+  "sw": {
+    "label": "Kiswahili",
+    "llmInstruction": "Tafadhali jibu kwa Kiswahili rahisi."
   }
 }
